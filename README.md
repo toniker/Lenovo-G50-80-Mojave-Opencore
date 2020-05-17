@@ -3,13 +3,13 @@ I compiled this EFI folder to install macOS Mojave on a Lenovo G50-80.
 Using Opencore 0.5.8 it's working with minor issues, most of them unimportant.  
 
 Specs for my machine: 
-Model: Lenovo G50-80 
-Bios version: B0CNA0WW 
-CPU: i7 5500U, HD 5500 Graphic 
-RAM: 4GB 
-Hard drive: 128GB SATA SSD 
-Audio: Conexant CX20752 
-Ethernet: RTL8111  
+Model: Lenovo G50-80
+Bios version: B0CNA0WW
+CPU: i7 5500U, HD 5500 Graphics
+RAM: 4GB
+Hard drive: 128GB SATA SSD
+Audio: Conexant CX20752
+Ethernet: RTL8111 
 
 Known Issues:  
 *Trackpad doesn't appear under System Preferences->Trackpad. Meaning only mouse movement and two finger scrolling works (Vertical and Horizontal).  
